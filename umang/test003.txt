@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 jh ruh 4rf u4f uf uf 
 =======
 This line is added by umang
->>>>>>> edd47607c4266a6a3ef41c8dde250064beeaf064
